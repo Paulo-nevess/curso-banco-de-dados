@@ -1,31 +1,41 @@
-# 🏷️ Nome do Projeto
+# 🏷️ Curso Banco de Dados SQL do ZERO ao Avançado
 
-> Uma breve descrição de 1 a 2 frases explicando o que o projeto faz e qual problema ele resolve.
+Repositório dedicado aos estudos, anotações e exercícios 100% práticos desenvolvidos durante o curso de banco de dados ministrado por Andre Iacono. O objetivo é dominar a linguagem SQL, desde a criação de bancos relacionais até a integração de dados.
 
-## 🚀 Funcionalidades
+## 🚀 Funcionalidades (O que será aprendido)
 
-- Funcionalidade 1
-- Funcionalidade 2
-- Funcionalidade 3
+- **Fundamentos SQL:** Sintaxe básica, criação de tabelas e bancos de dados com restrições.
+- **Análise de Dados:** Geração de relatórios com funções agregadas e comandos `GROUP BY`.
+- **Consultas Avançadas:** Operações de string, operações de comparação e operadores lógicos para adicionar fluxo lógico às consultas.
+- **Relacionamentos:** Utilização de comandos SQL `JOIN` comuns.
+- **Integração:** Como usar Python para aprimorar habilidades em SQL e conectar o MySQL a aplicativos.
 
 ## 💻 Tecnologias Utilizadas
 
-- Tecnologia 1 (ex: Java / Spring Boot)
-- Tecnologia 2 (ex: Flutter / Vue.js)
-- Tecnologia 3 (ex: Banco de Dados)
+- MySQL (RDBMS)
+- Linguagem SQL 
+- Python (Para integração e automação)
 
-## 🛠️ Como executar o projeto
+## 🚀 Progresso do Curso (Checklist)
+Abaixo está o mapeamento dos principais tópicos abordados no curso:
 
-Pré-requisitos: Ter o [Software X] instalado.
+- [ ] Fundamentos da sintaxe SQL e estruturação de queries.
+- [ ] Criação de bancos de dados e tabelas com restrições (constraints).
+- [ ] Operadores lógicos e de comparação para fluxos de consultas.
+- [ ] Funções agregadas e relatórios com `GROUP BY`.
+- [ ] Consultas avançadas e operações de manipulação de strings.
+- [ ] Relacionamento entre tabelas utilizando comandos `JOIN`.
+- [ ] Integração do MySQL a aplicativos utilizando Python.
 
-1. Clone o repositório:
-`git clone https://github.com/seu-usuario/nome-do-projeto.git`
-2. Acesse a pasta do projeto:
-`cd nome-do-projeto`
-3. Instale as dependências:
-`comando de instalação`
-4. Execute o projeto:
-`comando de execução`
+## ⚙️ Como executar o projeto
 
-## 📚 Aprendizados e Desafios (Opcional, mas ótimo para portfólio)
-Descreva brevemente qual foi o maior desafio técnico do projeto e o que você aprendeu resolvendo ele.
+Pré-requisitos: Ter um ambiente de banco de dados MySQL configurado localmente ou via Docker.
+
+1. Clonar o repositório: `git clone https://github.com/Paulo-Neves/curso-banco-de-dados.git`
+2. Acesse a pasta do projeto: `cd curso-banco-de-dados`
+3. Conecte-se ao seu servidor MySQL através da sua ferramenta preferida (ex: MySQL Workbench ou VS Code).
+4. Execute os arquivos `.sql` presentes na pasta `/scripts` seguindo a ordem de criação.
+
+## 📚 Aprendizados e Desafios 
+
+*Espaço reservado para documentar os maiores desafios técnicos enfrentados ao longo do curso e o que foi aprendido ao resolvê-los.*
